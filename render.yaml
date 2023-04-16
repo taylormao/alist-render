@@ -26,7 +26,7 @@ services:
         value: v2_435bd_s2KNh8DRyru2UpbsFnVLVYQ
         sync: false
       - key: DB_NAME
-        value: mds37215735/mao_alist
+        value: mds37215735.mao_alist
         sync: false
       - key: DB_TABLE_PREFIX
         value: alist_
