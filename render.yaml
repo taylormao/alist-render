@@ -12,25 +12,25 @@ services:
         value: 5244
       - key: DB_TYPE
         value: postgresql
-        sync: false
+        # sync: false
       - key: DB_HOST
         value: db.bit.io
-        sync: false
+        # sync: false
       - key: DB_PORT
         value: 5432
-        sync: false
+        # sync: false
       - key: DB_USER
         value: mds37215735
-        sync: false
+        # sync: false
       - key: DB_PASS
         value: v2_435bd_s2KNh8DRyru2UpbsFnVLVYQ
-        sync: false
+        # sync: false
       - key: DB_NAME
-        value: mds37215735.mao_alist
-        sync: false
+        value: mds37215735/mao_alist
+        # sync: false
       - key: DB_TABLE_PREFIX
         value: alist_
-        sync: false
+        # sync: false
       - key: CDN
         value: https://npm.elemecdn.com/alist-web@$version/dist
-        sync: false
+        # sync: false
