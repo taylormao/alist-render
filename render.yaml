@@ -11,22 +11,22 @@ services:
       - key: PORT
         value: 5244
       - key: DB_TYPE
-        value: postgresql
+        value: mysql
         # sync: false
       - key: DB_HOST
-        value: db.bit.io
+        value: db4free.net
         # sync: false
       - key: DB_PORT
-        value: 5432
+        value: 3306
         # sync: false
       - key: DB_USER
         value: mds37215735
         # sync: false
       - key: DB_PASS
-        value: v2_435bd_s2KNh8DRyru2UpbsFnVLVYQ
+        value: 12345678
         # sync: false
       - key: DB_NAME
-        value: mds37215735/mao_alist
+        value: alistimao
         # sync: false
       - key: DB_TABLE_PREFIX
         value: alist_
