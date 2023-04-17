@@ -1,4 +1,4 @@
-FROM hub.docker.com/r/xhofe/alist
+FROM xhofe/alist:latest
 LABEL MAINTAINER="i@nn.ci"
 WORKDIR /opt/alist/
 
